@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
