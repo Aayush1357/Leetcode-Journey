@@ -14,7 +14,6 @@ class Solution {
             }
 
             ub |= nums[r];
-            
             max = Math.max(max,  r-l+1);
         }
 
