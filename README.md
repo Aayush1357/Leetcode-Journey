@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0162-find-peak-element) |
+| [0494-target-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0494-target-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2478-longest-nice-subarray) |
@@ -47,5 +48,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0494-target-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2262-solving-questions-with-brainpower) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
