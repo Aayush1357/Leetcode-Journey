@@ -2,10 +2,21 @@ class Solution {
     public int numDecodings(String s) {
 
         int n = s.length();
-        int[] dp = new int[n];
-        Arrays.fill(dp , -1);
+        int[] dp = new int[n+1];
+        // Arrays.fill(dp , -1);
+        dp[n] = 1;
 
-        return f(0 , s , dp);
+        for(int i=n-1;i>=0;i--){
+            if(s.charAt(i) != '0'){
+                dp[i] = dp[i+1];
+                if(i < n-1 && (s.charAt(i) == '1' || s.charAt(i) == '2' && s.charAt(i+1) < '7')){
+                    dp[i] += dp[i+2];
+
+                } 
+            }
+        }
+        return dp[0];
+        // return f(0 , s , dp);
     }
 
     public static int f(int i  , String s , int[] dp){
@@ -26,7 +37,6 @@ class Solution {
                 ways += f(i+2, s , dp);
             }
         }
-
 
         return dp[i] = ways;
     }
