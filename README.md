@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2308-divide-array-into-equal-pairs) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2478-longest-nice-subarray](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2478-longest-nice-subarray) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Array
 |  |
 | ------- |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Binary Search
