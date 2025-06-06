@@ -6,7 +6,6 @@ class MyHashMap {
     }
     
     public void put(int key, int value) {
-        if(hashmap.size() == 0) hashmap.add(new int[]{key , value});
 
         int ind = -1;
         for(int i=0;i<hashmap.size();i++){
