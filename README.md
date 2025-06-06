@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2308-divide-array-into-equal-pairs) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## String
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0091-decode-ways) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Sorting
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
