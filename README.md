@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0067-add-binary](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0091-decode-ways) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0091-decode-ways) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0494-target-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1025-minimum-cost-for-tickets) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0067-add-binary) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0386-lexicographical-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
