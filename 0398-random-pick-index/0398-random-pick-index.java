@@ -1,15 +1,14 @@
 class Solution {
-    HashMap<Integer , ArrayList<Integer>> h = new HashMap<>();
+    HashMap<Integer , ArrayList<Integer>> h;
     public Solution(int[] nums) {
+        this.h = new HashMap<>();
+
         int n = nums.length;
 
         for(int i = 0; i<n;i++){
             int c = nums[i];
-            h.putIfAbsent(c , new ArrayList<>());
-
-            ArrayList<Integer> a = h.get(c);
-            a.add(i);
-            h.put(c ,a );
+            this.h.putIfAbsent(c , new ArrayList<>());
+            this.h.get(c).add(i);
         }
     }
     
