@@ -1,16 +1,31 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        int n = nums.length;
-
         int max = Integer.MIN_VALUE;
-        for(int i=0;i<n;i++){
-            int m = 1;
-            for(int j=i;j<n;j++){
-                m *= nums[j];
-                
-                max = Math.max(m , max);
+
+        int prod = 1;
+
+        for(int i=0;i<nums.length;i++){
+            prod *= nums[i];
+
+            max = Math.max(max , prod);
+
+            if(prod == 0){
+                prod = 1;
             }
         }
+
+        prod = 1;
+
+        for(int i=nums.length-1;i>=0;i--){
+            prod *= nums[i];
+
+            max = Math.max(max , prod);
+
+            if(prod == 0){
+                prod = 1;
+            }
+        }
+
 
         return max;
     }
