@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0032-longest-valid-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0091-decode-ways) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0091-decode-ways](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0091-decode-ways) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0396-rotate-function](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0396-rotate-function) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
