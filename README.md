@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0152-maximum-product-subarray](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0396-rotate-function](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0091-decode-ways) |
+| [0152-maximum-product-subarray](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0396-rotate-function](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
