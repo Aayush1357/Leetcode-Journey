@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0205-isomorphic-strings](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0398-random-pick-index) |
 | [0817-design-hashmap](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0817-design-hashmap) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0091-decode-ways) |
+| [0205-isomorphic-strings](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2372-rearrange-characters-to-make-target-string) |
