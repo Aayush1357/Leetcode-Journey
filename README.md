@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0205-isomorphic-strings](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0398-random-pick-index) |
 | [0817-design-hashmap](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0817-design-hashmap) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2308-divide-array-into-equal-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
 ## Simulation
