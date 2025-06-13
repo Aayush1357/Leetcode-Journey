@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0817-design-hashmap](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0817-design-hashmap) |
 ## Recursion
 |  |
@@ -238,11 +240,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0032-longest-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Design
