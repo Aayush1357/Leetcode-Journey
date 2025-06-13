@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
@@ -190,11 +191,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
@@ -257,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0053-maximum-subarray) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
