@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## String
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
