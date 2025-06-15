@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2308-divide-array-into-equal-pairs) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3367-find-the-sum-of-encrypted-integers) |
 ## Combinatorics
 |  |
