@@ -1,40 +1,38 @@
 class Solution {
+    static final int MOD = (int) 1e9 + 7;
+    static final int MX = 100000;
+    static long[] fact = new long[MX];
+    static long[] invFact = new long[MX];
+
     public int countGoodArrays(int n, int m, int k) {
-        if (f[0] == 0)
-            f[0] = 1;
-        long res = m * pow(m - 1, n - 1 - k) % mod * C(n - 1, n - 1 - k) % mod;
-        return (int) res;
+        return (int)((((combination(n-1,k) * m) % MOD) * qpow(m-1 , n-k-1)) % MOD);
     }
 
-    int mod = 1_000_000_007;
-    static long[] revs = new long[100001];
-    static int[] f = new int[100001];
-
-    public long pow(int a, int b) {
+    static long qpow(long x, int n) {
         long res = 1;
-        long base = a;
-        while (b > 0) {
-            if ((b & 1) == 1)
-                res = res * base % mod;
-            base = base * base % mod;
-            b /= 2;
+        while (n > 0) {
+            if ((n & 1) == 1) {
+                res = (res * x) % MOD;
+            }
+            x = (x * x) % MOD;
+            n >>= 1;
         }
         return res;
     }
 
-    public long C(int a, int b) {
-        return (long) getF(a) * rev(getF(a - b)) % mod * rev(getF(b)) % mod;
+    static {
+        fact[0] = 1;
+        for(int i=1;i<MX;i++){
+            fact[i] = (fact[i-1] * i) % MOD;
+        }
+
+        invFact[MX - 1] = qpow(fact[MX - 1] , MOD - 2);
+        for(int i=MX-1;i>0;i--){
+            invFact[i-1] = (invFact[i] * i) % MOD;
+        }
     }
 
-    public long getF(int a) {
-        if (f[a] != 0)
-            return f[a];
-        return f[a] = (int) (getF(a - 1) * a % mod);
-    }
-
-    public long rev(long a) {
-        if (a == 1)
-            return a;
-        return mod - mod / a * rev(mod % a) % mod;
+    long combination(int n , int m){
+        return (((fact[n] *  invFact[m]) % MOD) * invFact[n-m]) % MOD;
     }
 }
