@@ -11,11 +11,12 @@ class Solution {
 
         while(i < n){
 
-            if(nums[i] - nums[min] > k){
+            if(nums[i] - nums[min] <= k){
+                
+            }else{
                 min = i;
                 ans++;
             }
-            
             i++;
         }
 
