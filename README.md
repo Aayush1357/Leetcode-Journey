@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0494-target-sum) |
 | [0576-out-of-boundary-paths](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0576-out-of-boundary-paths) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1025-minimum-cost-for-tickets) |
+| [1236-n-th-tribonacci-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1236-n-th-tribonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2262-solving-questions-with-brainpower) |
 ## Backtracking
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0396-rotate-function](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0398-random-pick-index) |
+| [1236-n-th-tribonacci-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1236-n-th-tribonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
+| [1236-n-th-tribonacci-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1236-n-th-tribonacci-number) |
 ## Reservoir Sampling
 |  |
 | ------- |
