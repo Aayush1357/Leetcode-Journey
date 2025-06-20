@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Combinatorics
 |  |
 | ------- |
