@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1236-n-th-tribonacci-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Two Pointers
 |  |
 | ------- |
