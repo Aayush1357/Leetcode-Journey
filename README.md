@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1310-watering-plants) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2262-solving-questions-with-brainpower](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2308-divide-array-into-equal-pairs) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Counting
