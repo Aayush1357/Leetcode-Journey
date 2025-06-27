@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0202-happy-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0396-rotate-function](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0396-rotate-function) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
