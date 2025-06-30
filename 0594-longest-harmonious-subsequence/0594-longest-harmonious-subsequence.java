@@ -9,16 +9,10 @@ class Solution {
         }
 
         int max = 0;
-        int mn1=0;
         for(int k : h.keySet()){
-            int v1 = h.get(k);
-
             if(h.containsKey(k+1)){
-                int vs = h.get(k+1) + v1;
-                if(max < vs){
-                    max = vs;
-                    mn1 = k;
-                }
+                int vs = h.get(k+1) + h.get(k);
+                max = Math.max(max , vs);
             }
         }
 
