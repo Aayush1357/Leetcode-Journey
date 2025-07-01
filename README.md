@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0576-out-of-boundary-paths) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1025-minimum-cost-for-tickets) |
 | [1236-n-th-tribonacci-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1236-n-th-tribonacci-number) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1916-find-center-of-star-graph](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2455-node-with-highest-edge-score](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2455-node-with-highest-edge-score) |
@@ -389,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Number Theory
 |  |
@@ -397,5 +401,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
