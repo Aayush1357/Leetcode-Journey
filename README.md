@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1916-find-center-of-star-graph](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1916-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2455-node-with-highest-edge-score](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2455-node-with-highest-edge-score) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
