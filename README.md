@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0744-network-delay-time) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2379-maximum-total-importance-of-roads) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2379-maximum-total-importance-of-roads](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2379-maximum-total-importance-of-roads) |
 | [2455-node-with-highest-edge-score](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2455-node-with-highest-edge-score) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3561-remove-methods-from-project) |
