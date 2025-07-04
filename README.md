@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3639-zero-array-transformation-i) |
 ## Tree
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0744-network-delay-time) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3561-remove-methods-from-project](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3561-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2379-maximum-total-importance-of-roads) |
 | [2455-node-with-highest-edge-score](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2455-node-with-highest-edge-score) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
+| [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3561-remove-methods-from-project](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3561-remove-methods-from-project) |
 ## Topological Sort
 |  |
