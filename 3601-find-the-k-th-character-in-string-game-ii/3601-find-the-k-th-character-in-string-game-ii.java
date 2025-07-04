@@ -22,7 +22,7 @@ class Solution {
                 if(op == 1) sh++;
             }
         }
-        return (char)(((sh) % 26 ) + 'a');
+        return (char)((('a' - 'a' + sh) % 26 ) + 'a');
 
     }
 
