@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0744-network-delay-time) |
+| [1738-maximal-network-rank](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1738-maximal-network-rank) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1916-find-center-of-star-graph](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1916-find-center-of-star-graph) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
