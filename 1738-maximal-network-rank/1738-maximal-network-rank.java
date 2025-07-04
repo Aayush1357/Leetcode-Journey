@@ -3,17 +3,14 @@ class Solution {
 
         int[] degree = new int[n];
 
-        List<List<Integer>> adj = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            adj.add(new ArrayList<>());
-        }
+        boolean[][] adj = new boolean[n][n];
 
         for(int i=0;i<roads.length;i++){
             int u = roads[i][0];
             int v = roads[i][1];
 
-            adj.get(u).add(v);
-            adj.get(v).add(u);
+            adj[u][v] = true;
+            adj[v][u] = true;
             degree[u]++;
             degree[v]++;
 
@@ -25,7 +22,7 @@ class Solution {
 
                 int v = degree[i] + degree[j];
                 
-                if(adj.get(i).contains(j)){
+                if(adj[i][j]){
                     v--;
                 }
 
