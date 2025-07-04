@@ -21,15 +21,15 @@ class Solution {
 
         int max = 0;
         for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-                if(i == j) continue;
+            for(int j=i+1;j<n;j++){
+
                 int v = degree[i] + degree[j];
                 
                 if(adj.get(i).contains(j)){
-                    max = Math.max(max , v-1);
-                }else{
-                    max = Math.max(max , v);
+                    v--;
                 }
+
+                max = Math.max(max , v);
             }
         }
 
