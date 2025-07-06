@@ -21,20 +21,27 @@ class Solution {
                 if(businessLine[i].equals("electronics") || businessLine[i].equals("grocery") || 
                 businessLine[i].equals("pharmacy") || businessLine[i].equals("restaurant")){
 
-                    boolean is = false;
-                    for(char ch : c.toCharArray()){
-                        if(ch >= '0' && ch <= '9' || ch >= 'a' && ch <= 'z' 
-                        || ch >= 'A' && ch <= 'Z' || ch == '_'){
-                            is = true;
-                        }else{
-                            is = false;
-                            break;
-                        }
-                    }
-                    
-                    if(is){
+
+
+                    if (c.matches("[a-zA-Z0-9_]+")) {
                         pq.offer(new String[]{businessLine[i] , c});
+                    } else {
+                        continue;   
                     }
+                    // boolean is = false;
+                    // for(char ch : c.toCharArray()){
+                    //     if(ch >= '0' && ch <= '9' || ch >= 'a' && ch <= 'z' 
+                    //     || ch >= 'A' && ch <= 'Z' || ch == '_'){
+                    //         is = true;
+                    //     }else{
+                    //         is = false;
+                    //         break;
+                    //     }
+                    // }
+                    
+                    // if(is){
+                    //     pq.offer(new String[]{businessLine[i] , c});
+                    // }
 
                 }else{
                     continue;
