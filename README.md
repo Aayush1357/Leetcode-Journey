@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0398-random-pick-index) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0594-longest-harmonious-subsequence) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0594-longest-harmonious-subsequence) |
