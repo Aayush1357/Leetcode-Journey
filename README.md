@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0091-decode-ways](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
