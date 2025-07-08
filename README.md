@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-watering-plants](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1310-watering-plants) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0300-longest-increasing-subsequence) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0576-out-of-boundary-paths) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1025-minimum-cost-for-tickets) |
 | [1236-n-th-tribonacci-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1236-n-th-tribonacci-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [0594-longest-harmonious-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0594-longest-harmonious-subsequence) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
