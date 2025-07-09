@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3639-zero-array-transformation-i) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0744-network-delay-time) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
 | [3561-remove-methods-from-project](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3561-remove-methods-from-project) |
+| [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3561-remove-methods-from-project](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3561-remove-methods-from-project) |
+| [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -399,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2379-maximum-total-importance-of-roads) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -429,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -447,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3189-find-champion-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3189-find-champion-ii) |
 | [3271-count-the-number-of-houses-at-a-certain-distance-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3271-count-the-number-of-houses-at-a-certain-distance-i) |
 | [3561-remove-methods-from-project](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3561-remove-methods-from-project) |
+| [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
@@ -474,4 +481,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0232-implement-queue-using-stacks) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
