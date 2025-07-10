@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3639-zero-array-transformation-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3639-zero-array-transformation-i) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Sorting
 |  |
