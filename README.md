@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1236-n-th-tribonacci-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1236-n-th-tribonacci-number) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Reservoir Sampling
 |  |
