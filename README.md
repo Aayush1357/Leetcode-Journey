@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2379-maximum-total-importance-of-roads](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2379-maximum-total-importance-of-roads) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Simulation
