@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0398-random-pick-index) |
 | [1236-n-th-tribonacci-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0817-design-hashmap](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0817-design-hashmap) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
