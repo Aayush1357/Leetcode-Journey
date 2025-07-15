@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3396-valid-word](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3618-find-the-original-typed-string-ii) |
