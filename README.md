@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3639-zero-array-transformation-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
