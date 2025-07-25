@@ -7,11 +7,10 @@ class Solution {
             set.add(nums[i]);
         }
         int sum = 0;
-        Iterator<Integer> i = set.iterator();
         int max = Integer.MIN_VALUE;
 
-        while(i.hasNext()){
-            sum += i.next();
+        for(int e : set){
+            sum += e;
             max = Math.max(max , sum);
         }
 
