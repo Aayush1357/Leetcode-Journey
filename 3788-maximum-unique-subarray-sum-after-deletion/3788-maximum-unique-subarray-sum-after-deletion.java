@@ -1,8 +1,6 @@
 class Solution {
     public int maxSum(int[] nums) {
 
-        Arrays.sort(nums);
-
         Set<Integer> set = new TreeSet<>(Comparator.reverseOrder());
         int n = nums.length;
         for(int i=n-1;i>=0;i--){
