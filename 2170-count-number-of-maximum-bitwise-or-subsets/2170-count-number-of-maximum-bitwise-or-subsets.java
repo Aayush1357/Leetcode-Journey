@@ -7,11 +7,13 @@ class Solution {
             maxor |= nums[i];
         }
 
-        return f(0 , nums , maxor , 0);
+        int[] dp = new int[n];
+        Arrays.fill(dp , -1);
+        return f(0 , nums , maxor , 0 , dp);
     }
 
 
-    public static int f(int i , int[] nums , int maxor , int x){
+    public static int f(int i , int[] nums , int maxor , int x , int[] dp){
 
         
         if(i >= nums.length){
@@ -22,10 +24,11 @@ class Solution {
             }
         }
 
-        
-        int t = f(i+1 , nums , maxor, x | nums[i]);
+        if(dp[i] != -1) return dp[i];
 
-        int nt = f(i+1 , nums , maxor ,x);
+        int t = f(i+1 , nums , maxor, x | nums[i] , dp);
+
+        int nt = f(i+1 , nums , maxor ,x ,dp);
 
         return t + nt;
     }
