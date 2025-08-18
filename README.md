@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0389-find-the-difference) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1250-longest-common-subsequence) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0576-out-of-boundary-paths) |
 | [1025-minimum-cost-for-tickets](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1025-minimum-cost-for-tickets) |
