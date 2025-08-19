@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2428-equal-row-and-column-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2206-detonate-the-maximum-bombs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2812-find-the-maximum-achievable-number) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
