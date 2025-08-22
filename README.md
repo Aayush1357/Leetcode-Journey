@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3639-zero-array-transformation-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3639-zero-array-transformation-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2428-equal-row-and-column-pairs) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Linked List
 |  |
 | ------- |
