@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-find-the-original-typed-string-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3618-find-the-original-typed-string-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3797-design-spreadsheet](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3797-design-spreadsheet](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2428-equal-row-and-column-pairs) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3797-design-spreadsheet](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0232-implement-queue-using-stacks) |
 | [0817-design-hashmap](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0817-design-hashmap) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3797-design-spreadsheet](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3797-design-spreadsheet) |
 ## Hash Function
 |  |
 | ------- |
