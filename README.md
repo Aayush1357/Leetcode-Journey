@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0386-lexicographical-numbers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0386-lexicographical-numbers) |
+| [0547-number-of-provinces](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0744-network-delay-time) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2206-detonate-the-maximum-bombs) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
@@ -394,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0744-network-delay-time) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2206-detonate-the-maximum-bombs) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0547-number-of-provinces) |
 | [2793-count-the-number-of-complete-components](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2793-count-the-number-of-complete-components) |
 | [3863-power-grid-maintenance](https://github.com/Aayush1357/Leetcode-Journey/tree/master/3863-power-grid-maintenance) |
 ## Graph
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0744-network-delay-time) |
 | [1738-maximal-network-rank](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1738-maximal-network-rank) |
 | [1912-number-of-restricted-paths-from-first-to-last-node](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1912-number-of-restricted-paths-from-first-to-last-node) |
