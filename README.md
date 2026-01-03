@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0455-assign-cookies) |
+| [0876-middle-of-the-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Aayush1357/Leetcode-Journey/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Greedy
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0234-palindrome-linked-list) |
 | [0817-design-hashmap](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0817-design-hashmap) |
+| [0876-middle-of-the-linked-list](https://github.com/Aayush1357/Leetcode-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Aayush1357/Leetcode-Journey/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
