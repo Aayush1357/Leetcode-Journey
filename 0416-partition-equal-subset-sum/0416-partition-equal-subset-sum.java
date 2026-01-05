@@ -23,10 +23,6 @@ class Solution {
             dp[i][0] = true;
         }
         
-        if(arr[0] <= sum){
-            dp[0][arr[0]] = true;
-        }
-        
         
         for(int i=1;i<n;i++){
             for(int t = 1 ;t<=sum;t++){
