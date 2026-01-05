@@ -25,7 +25,7 @@ class Solution {
         
         
         for(int i=1;i<n;i++){
-            for(int t = 1 ;t<=sum;t++){
+            for(int t = 0 ;t<=sum;t++){
                 boolean notake = dp[i - 1][t];
         
                 boolean take = false;
